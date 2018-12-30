@@ -4,4 +4,5 @@ def square_array(array)
     element ** 2
     newarray.push(element)
   end
+  return newarray
 end
